@@ -5,7 +5,7 @@ Steps to build and deploy :
 
 1) Create your firebase project from https://console.firebase.google.com
 
-2) Update config.json file present in root directory of this project with the keys from your firebase project.
+2) Update config.json file present in root directory of this project with the keys from your firebase project. If you dont want to use config file locally you need to set config variables firebase itself.
 
 3) Update your firebase project id in .firebaserc
 
